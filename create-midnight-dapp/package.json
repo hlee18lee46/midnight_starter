@@ -1,0 +1,27 @@
+{
+  "name": "create-midnight-dapp",
+  "version": "0.1.4",
+  "description": "Initialize a React + Vite + Midnight dApp in the current directory",
+  "bin": {
+    "create-midnight-dapp": "./bin.js"
+  },
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "midnight",
+    "lace",
+    "vite",
+    "react",
+    "scaffold",
+    "initializer",
+    "cli"
+  ],
+  "files": [
+    "bin.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
