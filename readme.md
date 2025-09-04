@@ -100,6 +100,3 @@ This project is licensed under the Apache 2.0 License.
 🔗 NPM: [create-midnight-dapp](https://www.npmjs.com/package/create-midnight-dapp)
 
 🔗 Dev Submission: [Midnight Privacy First Challenge](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
-
-📖 Docs: see docs/
- for setup and screenshots
